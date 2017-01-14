@@ -1,0 +1,30 @@
+{
+  "PROD":{
+    "http.port" : 7000,
+    "mongo_config":{
+      "db_name":"vertx",
+      "connection_string":"mongodb://1.1.1.0:27017,1.1.1.1:27017,1.1.1.2:27017/?replicaSet=rs0",
+      "hosts":[
+        {
+          "host":"1.1.1.0",
+          "port":27017
+        },
+        {
+          "host":"1.1.1.1",
+          "port":27017
+        },
+        {
+          "host":"1.1.1.2",
+          "port":27017
+        }
+      ]
+    }
+  },
+  "LOCAL":{
+    "http.port" : 7000,
+    "mongo_config":{
+      "db_name":"vertx",
+      "connection_string":"mongodb://127.0.0.1:27017"
+    }
+  }
+}

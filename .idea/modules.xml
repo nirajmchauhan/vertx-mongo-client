@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vertx-mongo-client.iml" filepath="$PROJECT_DIR$/.idea/modules/vertx-mongo-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vertx-mongo-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/vertx-mongo-client_main.iml" group="vertx-mongo-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vertx-mongo-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/vertx-mongo-client_test.iml" group="vertx-mongo-client" />
+    </modules>
+  </component>
+</project>
