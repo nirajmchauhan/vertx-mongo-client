@@ -5,6 +5,8 @@ import com.google.inject.name.Names;
 import io.vertx.core.Vertx;
 import io.vertx.core.json.JsonObject;
 import io.vertx.ext.mongo.MongoClient;
+import io.vertx.servicediscovery.ServiceDiscovery;
+import io.vertx.servicediscovery.ServiceDiscoveryOptions;
 
 public class AppInjector extends AbstractModule {
     private Vertx vertx;

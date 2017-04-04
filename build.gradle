@@ -17,12 +17,13 @@ repositories {
     jcenter()
 }
 
-version = '3.3.3'
+version = '3.4.1'
 
 dependencies {
     compile "io.vertx:vertx-core:$version"
     compile "io.vertx:vertx-web:$version"
     compile "io.vertx:vertx-mongo-client:$version"
+    compile "io.vertx:vertx-service-discovery:$version"
     compile group: 'org.json', name: 'json', version: '20160810'
     compile group: 'com.google.inject.extensions', name: 'guice-multibindings', version: '4.1.0'
 

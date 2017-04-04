@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.vertx:vertx-service-discovery:3.4.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-service-discovery/3.4.1/d18f1ab9d0604dfb55f133fbafdf247a656cc8c0/vertx-service-discovery-3.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-service-discovery/3.4.1/967cb5813217ae9fcb3b9294ca5d71b12a3a1e87/vertx-service-discovery-3.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
